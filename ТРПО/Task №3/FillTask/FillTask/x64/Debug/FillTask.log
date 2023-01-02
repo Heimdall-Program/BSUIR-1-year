@@ -1,0 +1,8 @@
+﻿  FillTask.cpp
+C:\Users\User\Documents\БГУИР\TRPO_Practic\Task №3\FillTask\FillTask\FillTask.cpp(134,37): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+C:\Users\User\Documents\БГУИР\TRPO_Practic\Task №3\FillTask\FillTask\FillTask.cpp(141,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\User\Documents\БГУИР\TRPO_Practic\Task №3\FillTask\FillTask\FillTask.cpp(142,9): warning C4101: a: неиспользованная локальная переменная
+C:\Users\User\Documents\БГУИР\TRPO_Practic\Task №3\FillTask\FillTask\FillTask.cpp(142,15): warning C4101: j: неиспользованная локальная переменная
+C:\Users\User\Documents\БГУИР\TRPO_Practic\Task №3\FillTask\FillTask\FillTask.cpp(142,12): warning C4101: i: неиспользованная локальная переменная
+C:\Users\User\Documents\БГУИР\TRPO_Practic\Task №3\FillTask\FillTask\FillTask.cpp(149,9): warning C4101: i: неиспользованная локальная переменная
+  FillTask.vcxproj -> C:\Users\User\Documents\БГУИР\TRPO_Practic\Task №3\FillTask\x64\Debug\FillTask.exe

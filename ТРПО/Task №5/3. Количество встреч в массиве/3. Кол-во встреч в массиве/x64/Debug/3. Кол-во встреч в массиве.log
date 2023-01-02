@@ -1,0 +1,4 @@
+﻿  3. Кол-во встреч в массиве.cpp
+C:\Users\citra\OneDrive\Документы\БГУИР\Software-development-technologies-practice-\Task №5\3. Количество встреч в массиве\3. Кол-во встреч в массиве\3. Кол-во встреч в массиве.cpp(34,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\citra\OneDrive\Документы\БГУИР\Software-development-technologies-practice-\Task №5\3. Количество встреч в массиве\3. Кол-во встреч в массиве\3. Кол-во встреч в массиве.cpp(46,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  3. Кол-во встреч в массиве.vcxproj -> C:\Users\citra\OneDrive\Документы\БГУИР\Software-development-technologies-practice-\Task №5\3. Количество встреч в массиве\x64\Debug\3. Кол-во встреч в массиве.exe

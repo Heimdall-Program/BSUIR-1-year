@@ -1,0 +1,4 @@
+﻿  Matr.cpp
+C:\Users\User\Documents\БГУИР\TRPO_Practic\Task №4\Matr\Matr\Matr.cpp(12,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\User\Documents\БГУИР\TRPO_Practic\Task №4\Matr\Matr\Matr.cpp(62,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Matr.vcxproj -> C:\Users\User\Documents\БГУИР\TRPO_Practic\Task №4\Matr\x64\Debug\Matr.exe
